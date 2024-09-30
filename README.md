@@ -33,8 +33,6 @@ Outlier Detection and Treatment: Outliers were detected using statistical techni
 
 Analysis and Statistics Applied
 Descriptive Statistics: Summary statistics (mean, median, mode, standard deviation, variance) were calculated to understand the dataset's distribution.
-Correlation Analysis: A correlation matrix was generated to explore relationships between weather parameters such as temperature, rainfall, and humidity.
-Data Visualization: Histograms, boxplots, and other charts were used to visualize distributions, trends, and outliers.
 Outlier Analysis: Statistical methods were applied to identify and mitigate outliers that could impact the results.
 
 Tools and Libraries
@@ -42,7 +40,6 @@ The project was developed using the following tools and libraries:
 
 Python: For data cleaning, manipulation, and analysis.
 Pandas: For handling dataframes and preprocessing.
-Matplotlib/Seaborn: For data visualization (if used).
 
 Tableau: For advanced visualization and dashboard creation (optional, if applicable).
 
